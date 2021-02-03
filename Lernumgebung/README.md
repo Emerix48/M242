@@ -24,6 +24,9 @@ Das IoTKitV3 wird von meinem MacBook als "usbmodem" erkannt.
 
 ### Windows
 
+Auf Windows muss im gegensatz zu MacOS und Linux noch die Serial Driver installiert werden die von hier os.mbed.com/media/downloads/drivers/mbedWinSerial_16466.exe heruntergeladen werden können.
+Wird das IoTkitv3 an den Windows Computer angeschlossen erscheint es als Laufwerk im Explorer namens "DAPLINK".
+
 ## Terminal-Programm (K1)
 
 Das Terminalprogramm wird dazu verwendet um den Konsolen-Output des Boards auszulesen. Dies ist vorallem bei debugging sehr hilfreich.
